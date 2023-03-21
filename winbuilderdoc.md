@@ -3,11 +3,14 @@
 ## Winbuilder script creation
 
 Select tools
-<img src="https://cldup.com/CNvdnmCQtv.png" alt="Win11 logo" style="height: 100px; width:120px;"/>
+<!-- <img src="https://cldup.com/CNvdnmCQtv.png" alt="Win11 logo" style="height: 100px; width:120px;"/> -->
+<!--
+<img src="https://github.com/CavTronics/wbscriptdev/blob/master/images/toolsselection.png" alt="toolsselection" style="height: 100px; width:120px;"/> -->
 
-<img src="https://cldup.com/images/toolsselection.png" alt="Win11 logo" style="height: 100px; width:120px;"/>
+![toolsselection](https://github.com/CavTronics/wbscriptdev/blob/master/images/toolsselection.png?raw=true)
 
-images/toolsselection.png
+
+<!-- images/toolsselection.png -->
 
 
 select tab create script
